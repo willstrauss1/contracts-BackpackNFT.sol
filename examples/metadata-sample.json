@@ -1,0 +1,16 @@
+{
+  "name": "Backpack #42",
+  "description": "Dynamic NFT backpack linked to dispensary purchases.",
+  "image": "ipfs://Qm.../backpack.png",
+  "attributes": [
+    { "trait_type": "Product", "value": "Gorilla Glue 3.5g" },
+    { "trait_type": "Category", "value": "Flower" },
+    { "trait_type": "Terpene", "value": "Limonene" },
+    { "trait_type": "Purchase Date", "value": "2019-05-15" }
+  ],
+  "terpene_profile": {
+    "limonene": 0.35,
+    "myrcene": 0.25,
+    "caryophyllene": 0.40
+  }
+}
